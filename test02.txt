@@ -1,0 +1,3 @@
+name: Emilie Adkins, vtDay: 10, date: 5, value: 11.90
+name: Ann Simpson, vtDay: 5, date: 10, value: 11.90
+name: Charlotte Reese, vtDay: 5, date: 10, value: 11.90
