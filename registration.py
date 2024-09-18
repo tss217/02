@@ -39,7 +39,7 @@ class resgWoker(DateCountVT):
 
 
 if __name__ == "__main__":
-    x = resgWoker("tatat","5","0","5.95")
+    x = resgWoker("taatat","5","0","5.95")
     print(x.CheckTxtExiste())
     x.checkToMakeTxt()
     x.registerwoker()
